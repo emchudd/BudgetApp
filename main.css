@@ -53,6 +53,7 @@
   .expense-amount,
   .expense-title {
     color: var(--mainRed);
+    font-size: 1rem;
   }
   .edit-icon {
     color: var(--mainBlue);
